@@ -23,4 +23,4 @@ server_health_report.csv
 
 ## Output Screenshot
 
-![Project Output](output.png)
+![Project Output](output_v2.png)
