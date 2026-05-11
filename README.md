@@ -20,3 +20,7 @@ server_health_report.csv
 
 ## Run Script
 .\multi_server_health.ps1
+
+## Output Screenshot
+
+![Project Output](output.png)
