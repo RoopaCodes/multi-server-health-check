@@ -1,0 +1,6 @@
+"Timestamp","ServerName","Reachable"
+"2026-05-11 15:53:06","localhost","Reachable"
+"2026-05-11 15:53:06","google.com","Reachable"
+"2026-05-11 15:53:06","cloudflare.com","Reachable"
+"2026-05-11 15:53:06","github.com","Reachable"
+"2026-05-11 15:53:10","microsoft.com","Not Reachable"
